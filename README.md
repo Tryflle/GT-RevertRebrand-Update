@@ -23,8 +23,11 @@ Reverts Discord's 2021 rebrand (font, colors, reactions, mentions, loading scree
 2. Clone the theme via: `git clone https://github.com/Goose-Nest/GT-RevertRebrand`
 
 ### BetterDiscord
-Download [the theme.css file](https://raw.githubusercontent.com/Goose-Nest/GT-RevertRebrand/main/RevertRebrand.theme.css) to your BD themes directory.
+Download [the theme.css file](https://raw.githubusercontent.com/Tryflle/GT-RevertRebrand-Update/main/RevertRebrand.theme.css) to your BD themes directory.
 
 ### GooseMod
 Use the built-in store in settings to search and install.
+
+### Vencord
+Add `https://raw.githubusercontent.com/Tryflle/GT-RevertRebrand-Update/main/RevertRebrand.theme.css` to your themes.
 </details>
